@@ -1,0 +1,115 @@
+{
+	"pages": [
+		{
+			"path": "pages/main/main",
+			"style": {
+				"navigationBarTitleText": "势航网络科技"
+			}
+		},
+		{
+			"path": "pages/svt/svt",
+			"style": {
+				"navigationBarTitleText": "svt工具"
+			}
+		},
+		{
+			"path": "pages/upLevel/upLevel",
+			"style": {
+				"navigationBarTitleText": "设备升级"
+			}
+		},
+		{
+			"path": "pages/devicePlateCodeType/devicePlateCodeType",
+			"style": {
+				"navigationBarTitleText": "车牌类型"
+			}
+		},
+		{
+			"path": "pages/deviceCheckUp/deviceCheckUp",
+			"style": {
+				"navigationBarTitleText": "设备检测"
+			}
+		},
+		{
+			"path": "pages/position/position",
+			"style": {
+				"navigationBarTitleText": "位置信息"
+			}
+		},
+		{
+			"path": "pages/deviceModify/deviceModify",
+			"style": {
+				"navigationBarTitleText": "设备参数"
+			}
+		},
+
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "登录"
+			}
+		},
+
+		{
+			"path": "pages/deviceSet/deviceSet",
+			"style": {
+				"navigationBarTitleText": "高级设置"
+			}
+		},
+		{
+			"path": "pages/deviceUnpgrade/deviceUnpgrade",
+			"style": {
+				"navigationBarTitleText": "设备升级"
+			}
+		},
+
+
+		{
+			"path": "pages/user/user",
+			"style": {
+				"navigationBarTitleText": "我的"
+			}
+		},
+		{
+			"path": "pages/workDaily/workDaily",
+			"style": {
+				"navigationBarTitleText": "工作报表"
+			}
+		},
+		{
+			"path": "pages/workDaily/addworklist",
+			"style": {
+				"navigationBarTitleText": "添加报表"
+			}
+		}
+	],
+	"tabBar": {
+		"color": "#7a7e83",
+		"selectedColor": "#0faeff",
+		"backgroundColor": "#ffffff",
+		"list": [
+			{
+				"pagePath": "pages/main/main",
+				"text": "首页",
+				"iconPath": "static/img/home.png",
+				"selectedIconPath": "static/img/homeHL.png"
+			},
+			{
+				"pagePath": "pages/user/user",
+				"text": "我的",
+				"iconPath": "static/img/user.png",
+				"selectedIconPath": "static/img/userHL.png"
+			}
+		]
+	},
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarBackgroundColor": "#0faeff",
+		"backgroundColor": "#0faeff"
+	},
+	"window": {
+		"enablePullDownRefresh": true,
+		"backgroundTextStyle": "dark",
+		"onReachBottomDistance": 50
+	}
+}

@@ -1,0 +1,230 @@
+{
+    "data": {
+        "onlineRedis": true,
+        "companyName": null,
+        "p50": null,
+        "p52": null,
+        "deviceNumber": "0007859",
+        "p51": null,
+        "p54": null,
+        "p53": null,
+        "p56": null,
+        "p55": null,
+        "p58": null,
+        "p57": null,
+        "p59": null,
+        "createdTime": 1490851582000,
+        "id": "7620",
+        "p4a": null,
+        "p4c": null,
+        "p4b": null,
+        "deviceType": 1,
+        "p4e": null,
+        "p4d": null,
+        "p4f": null,
+        "p61": 578699,
+        "p60": "0;1;0;;",
+        "p63": null,
+        "p62": "0",
+        "p65": null,
+        "p64": "654321",
+        "p67": null,
+        "p66": "XD:1,BBM:0,pFile:,PN:,RZ:,SW:,Make:,Model:,Mil:0,DS:0x0000,DR:0x0000,VIN:,CID:,CVN:0x00000000,0,,,C:01,;",
+        "p69": null,
+        "p68": null,
+        "p5b": null,
+        "p5a": null,
+        "softwareVersion": "4.3.0224.210125",
+        "p5d": null,
+        "p5c": "",
+        "p5f": null,
+        "p5e": null,
+        "monthFlow": 100,
+        "p01": "89860403101892641196",
+        "simType": "物联网卡",
+        "p03": "沪A07859",
+        "p02": "1,d.cvtsp.com,9300,1,E4F5E225E168AA03;2,211.95.60.112,8080,0,;",
+        "p05": "SLGV0123456789877",
+        "p04": 2,
+        "p07": 100,
+        "p06": 30,
+        "p09": "018000007859",
+        "p08": 0,
+        "deviceModel": "SVT100",
+        "modifiedTime": 1620641226000,
+        "p10": 1,
+        "p12": 0,
+        "p11": 0,
+        "p14": 1,
+        "p13": 65535,
+        "p16": 720,
+        "p15": 120,
+        "p18": 10,
+        "p17": 10,
+        "p19": "1,211.95.60.36,9300,,,1,1;",
+        "p0a": 11,
+        "p0c": "71801",
+        "p0b": 108,
+        "p0e": 20000,
+        "p0d": "SVT100",
+        "p0f": "4.02",
+        "extendInfo": "[1308B09SIM800M32];[861693038134052];[PN 080101003100\r\nSN 791301164718848\r\nHWVer V1.3\r\nFWVer R1.50Build10518\r\n];[1.2];[2021/04/25];[A001CA30 00000000];[0E01A004 AAB26C45 57FB8355 F50007C3];[4.3.0224.210125];[4.02];[UM220-III N lite];[SIMCOM_SIM800];[C001027];[已加载];[huzl];[2021-04-25 18:51:58];[];[未识别];[24.02v];[];[];[];[];[];[];",
+        "p21": 0,
+        "p20": "NULL",
+        "p23": "CHINA MOBILE",
+        "p22": "NULL",
+        "companyId": null,
+        "p25": "NULL",
+        "p24": "NULL",
+        "p27": 0,
+        "p26": "1843;2D89",
+        "p29": 255,
+        "p28": "NULL",
+        "p1b": "460042383103175",
+        "p1a": 30,
+        "p1d": "NULL",
+        "p1c": 0,
+        "p1f": "NULL",
+        "p1e": "NULL",
+        "simSource": "",
+        "lastState": {
+            "LoadRatio": "0",
+            "Speed": "3",
+            "GpsTime": "2021-04-30 09:27:25",
+            "Address": "上海市>青浦区>诸光路311弄11仕盟包装科技(上海)有限公司北偏西47米",
+            "ChinaVIConnectedState": "",
+            "MuckState": "",
+            "Temperature2": "65535",
+            "Temperature1": "65535",
+            "Latitude": "31163496",
+            "StateFlag": "1",
+            "gcj02": {
+                "x": 31.1614956566066,
+                "y": 121.31083822026822
+            },
+            "DSpeed": "0",
+            "SpeedLimitState": "",
+            "Longitude": "121306349",
+            "EvState": "0",
+            "DeviceState": "",
+            "Oil": "65535",
+            "GpsLockState": "",
+            "ConnectedState": "1",
+            "AlarmFlag": "0",
+            "MqbCan": [
+                {
+                    "Value": "255.99609375",
+                    "Id": 15
+                },
+                {
+                    "Value": "8191.875",
+                    "Id": 24
+                },
+                {
+                    "Value": "130",
+                    "Id": 22
+                },
+                {
+                    "Value": "215",
+                    "Id": 44
+                },
+                {
+                    "Value": "3276.75",
+                    "Id": 1602
+                },
+                {
+                    "Value": "2147483647.5",
+                    "Id": 59
+                },
+                {
+                    "Value": "21474836.475",
+                    "Id": 70
+                },
+                {
+                    "Value": "214748364.75",
+                    "Id": 41
+                },
+                {
+                    "Value": "130",
+                    "Id": 386
+                },
+                {
+                    "Value": "255",
+                    "Id": 12
+                },
+                {
+                    "Value": "102",
+                    "Id": 29
+                },
+                {
+                    "Value": "102",
+                    "Id": 1525
+                },
+                {
+                    "Value": "3276.75",
+                    "Id": 6
+                },
+                {
+                    "Value": "1020",
+                    "Id": 37
+                },
+                {
+                    "Value": "510",
+                    "Id": 103
+                },
+                {
+                    "Value": "0",
+                    "Id": 489
+                },
+                {
+                    "Value": "0",
+                    "Id": 490
+                },
+                {
+                    "Value": "215",
+                    "Id": 57
+                },
+                {
+                    "Value": "215",
+                    "Id": 46
+                },
+                {
+                    "Value": "1774.96875",
+                    "Id": 45
+                },
+                {
+                    "Value": "102",
+                    "Id": 75
+                },
+                {
+                    "Value": "215",
+                    "Id": 76
+                }
+            ],
+            "PositionStars": "",
+            "LoadID": "0",
+            "SignalStrength": ""
+        },
+        "onlineTime": 1620641216000,
+        "offlineTime": 1619777493000,
+        "simCode": "1440038313174",
+        "p2a": "NULL",
+        "p2c": null,
+        "p2b": "NULL",
+        "p41": 1,
+        "p40": 1,
+        "p43": "00",
+        "p42": 10,
+        "p45": null,
+        "p44": "EXUARTD,,,",
+        "p47": null,
+        "p46": null,
+        "p49": null,
+        "p48": null,
+        "online": true,
+        "activated": true
+    },
+    "flag": true,
+    "errorCode": 200,
+    "msg": null
+}
